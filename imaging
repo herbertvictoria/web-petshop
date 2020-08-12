@@ -1,0 +1,7 @@
+from pil Import image
+im=Image.open (face.jpg")
+im.rotate(180).show()
+
+Import requests
+url='https//api.covdi19api.com/summery
+print 9r.json)
